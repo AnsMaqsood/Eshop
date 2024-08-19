@@ -1,8 +1,34 @@
-# React + Vite
+# Eshop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Eshop! Eshop is a modern and scalable e-commerce application designed to provide a seamless shopping experience. This project showcases a fully functional online store with features for browsing products.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **Frontend**: Built with React JS for a dynamic and responsive user interface.
+- **Styling**: Tailwind CSS for a modern and clean design.
+
+## Getting Started
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/ansmaqsood/eshop.git
+    ```
+2. **Install dependencies**:
+    ```bash
+    cd eshop
+    npm install
+    ```
+3. **Run the application**:
+    ```bash
+    npm start
+    ```
+
+## Contributing
+
+Contributions are welcome! Please submit issues, feature requests, or pull requests to help improve Eshop.
+
+
+---
+
+Thank you for exploring Eshop! We hope it provides a great shopping experience.
